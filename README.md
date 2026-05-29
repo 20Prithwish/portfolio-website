@@ -1,18 +1,44 @@
-# portfolio-website
-This is my personal portfolio website built using HTML and CSS.
+# Personal Portfolio Website
+
+Welcome to my personal portfolio website project.
+
+## About the Project
+
+This is a responsive personal portfolio website built using HTML and CSS.
+The project showcases my skills, learning journey, and future projects as a B.Tech CSE student.
 
 ## Features
-- Responsive design
-- About section
-- Skills section
-- Contact section
+
+* Modern responsive design
+* Navigation bar
+* Hero section
+* About section
+* Skills section
+* Contact section
+* Profile picture integration
+* Smooth scrolling effects
 
 ## Technologies Used
-- HTML
-- CSS
+
+* HTML5
+* CSS3
 
 ## Live Website
-Add your GitHub Pages link here later.
+
+https://20prithwish.github.io/portfolio-website/
+
+## Future Improvements
+
+* Add JavaScript animations
+* Add project cards
+* Add dark/light mode
+* Improve responsiveness
+* Add downloadable resume
+* Add social media links
 
 ## Author
+
 Prithwish Jana
+
+B.Tech CSE Student
+Learning Web Development, DSA, and AI/ML

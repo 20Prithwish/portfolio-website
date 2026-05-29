@@ -15,7 +15,6 @@ The project showcases my skills, learning journey, and future projects as a B.Te
 * About section
 * Skills section
 * Contact section
-* Profile picture integration
 * Smooth scrolling effects
 
 ## Technologies Used
